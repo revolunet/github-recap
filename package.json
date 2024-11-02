@@ -1,6 +1,9 @@
 {
-  "name": "github-recap",
+  "name": "@revolunet/github-recap",
   "description": "Recap latest GitHub user activities in markdown",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "main": "index.ts",
   "bin": {
