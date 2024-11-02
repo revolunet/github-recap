@@ -20,8 +20,6 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         with:
           branch: main
-          extra_plugins: |
-            @codedependant/semantic-release-docker
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           NPM_TOKEN: "${{ secrets.NPM_TOKEN }}"
