@@ -1,5 +1,6 @@
 {
   "name": "github-recap",
+  "description": "Recap latest GitHub user activities in markdown",
   "publishConfig": {
     "access": "public"
   },
