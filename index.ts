@@ -1,4 +1,4 @@
-#!/usr/bin/env yarn -s ts-node
+#!/usr/bin/env npx -y -s ts-node
 
 // Interfaces
 interface GitHubCommit {

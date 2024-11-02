@@ -4,6 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": "https://github.com/revolunet/github-recap",
   "version": "1.0.0",
   "main": "index.ts",
   "bin": {

@@ -8,5 +8,5 @@ Fetch the last 30 days of "username"
 
 ```sh
 export GITHUB_TOKEN=xxx
-npx github-recap username 30
+npx @revolunet/github-recap username 30
 ```
