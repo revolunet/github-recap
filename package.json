@@ -1,12 +1,11 @@
 {
   "name": "github-recap",
   "description": "Recap latest GitHub user activities in markdown",
-  "publishConfig": {
-    "access": "public"
-  },
   "version": "1.0.0",
   "main": "index.ts",
-  "bin": "./index.ts",
+  "bin": {
+    "github-recap": "./index.ts"
+  },
   "license": "Apache-2.0",
   "scripts": {
     "start": "ts-node index.ts"
